@@ -1,2 +1,2 @@
 # testing
-just a branch to test github processes
+just a repository to test github processes
